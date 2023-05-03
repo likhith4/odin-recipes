@@ -1,2 +1,2 @@
 # odin-recipes
-A basic recipes website
+A basic recipes website written by Likhith
