@@ -1,3 +1,2 @@
 # odin-recipes
-A basic recipes website built using HTML
-CSS is cooking right now :)
+A basic recipes website
